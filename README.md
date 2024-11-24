@@ -18,8 +18,8 @@ This is a simple and efficient bash script designed to clean up old screenshots 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/screenshot-cleanup-tool.git
-   cd screenshot-cleanup-tool
+   git clone https://github.com/Rehjii-Martin/Declutterer.git
+   cd Declutterer
    ```
 
 2. **Make the Script Executable:**
