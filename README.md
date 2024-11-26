@@ -10,6 +10,9 @@ This is a simple and efficient bash script designed to clean up old screenshots 
 - Works for `.png`, `.jpg`, and `.jpeg` files.
 - Simple and efficient to use.
 - Verbose output to display deleted files.
+- Specify the directory to clean.
+- Set an age limit (in days) for deleting files.
+- Dry-run mode to preview deletions without removing files.
 
 ---
 
