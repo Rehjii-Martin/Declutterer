@@ -1,6 +1,6 @@
 # Screenshot Cleanup Tool
 
-This is a simple and efficient bash script designed to clean up old screenshots from your `Pictures/Screenshots` directory. The script removes all image files (e.g., `.png`, `.jpg`, `.jpeg`) that are older than today's date. This tool is ideal for maintaining a tidy system by automatically managing screenshots and freeing up disk space.
+This is a simple and efficient bash script designed to clean up screenshots from your `Pictures/Screenshots` directory. The script removes all image files (e.g., `.png`, `.jpg`, `.jpeg`) that are older than today's date. This tool is ideal for maintaining a tidy system by automatically managing screenshots and freeing up disk space.
 
 ---
 
